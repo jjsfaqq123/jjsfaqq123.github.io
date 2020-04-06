@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-06T08:52:58.128Z</updated>
+  <updated>2020-04-06T13:00:17.170Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post</title>
+    <title>博客迁移</title>
     <link href="http://yoursite.com/2020/04/06/post/"/>
     <id>http://yoursite.com/2020/04/06/post/</id>
     <published>2020-04-06T08:41:26.000Z</published>
-    <updated>2020-04-06T08:52:58.128Z</updated>
+    <updated>2020-04-06T13:00:17.170Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>更换新电脑后，hexo博客需要整体迁移<br>迁移工作分为两部分：</p></blockquote>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;更换新电脑后，hexo博客需要整体迁移&lt;br&gt;迁移工作分为两部分：&lt;/p&gt;
+&lt;/blockquote&gt;
+      
     
     </summary>
     
