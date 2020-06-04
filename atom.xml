@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>欢迎来到小江江的个人博客</title>
+  <title>被爱情耽误的程序员</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-07T03:21:41.901Z</updated>
+  <updated>2020-06-04T07:35:57.081Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Autumn breeze</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端常用插件</title>
+    <link href="http://yoursite.com/2020/06/04/plugin/"/>
+    <id>http://yoursite.com/2020/06/04/plugin/</id>
+    <published>2020-06-04T07:27:22.000Z</published>
+    <updated>2020-06-04T07:35:57.081Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>前端常用插件</strong><br>侧滑触控：         vue-touch<br>copy复制：         vue-clipboard2<br>全局滚动回弹：     vue-scroller<br>上拉加载下拉刷新   vuescroll<br>数字滚动           vue-countTo<br>Mui</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;前端常用插件&lt;/strong&gt;&lt;br&gt;侧滑触控：         vue-touch&lt;br&gt;copy复制：         vue-clipboard2&lt;br&gt;全局滚动回弹：     vue-scroller&lt;br&gt;上拉加载下拉刷新 
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>破解WIFI密码</title>
