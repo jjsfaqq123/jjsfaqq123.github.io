@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-17T04:19:54.085Z</updated>
+  <updated>2020-06-21T12:02:33.516Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>抽奖功能</title>
+    <link href="http://yoursite.com/2020/06/21/small/"/>
+    <id>http://yoursite.com/2020/06/21/small/</id>
+    <published>2020-06-21T10:41:54.000Z</published>
+    <updated>2020-06-21T12:02:33.516Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>实现抽奖小功能</strong></p><blockquote><img src="/2020/06/21/small/1.PNG" class="">  <img src="/2020/06/21/small/2.PNG" class="">  <img src="/2020/06/21/small/3.PNG" class="">效果图<img src="/2020/06/21/small/4.PNG" class=""> </blockquote>  ]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;实现抽奖小功能&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;img src=&quot;/2020/06/21/small/1.PNG&quot; class=&quot;&quot;&gt;  
+&lt;img src=&quot;/2020/06/21/small/2.PNG&quot; class=&quot;&quot;&gt;  
+&lt;i
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>面试题</title>
@@ -92,34 +117,17 @@
     <link href="http://yoursite.com/2020/04/06/post/"/>
     <id>http://yoursite.com/2020/04/06/post/</id>
     <published>2020-04-06T08:41:26.000Z</published>
-    <updated>2020-04-07T11:03:35.228Z</updated>
+    <updated>2020-06-21T11:50:05.877Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>更换新电脑后，hexo博客需要整体迁移<br>迁移工作分为两部分：</p><p><strong>新电脑环境准备</strong></p><p>1.全局安装hexo脚手架<br>  npm install hexo-cli -g</p><p>2.博客文件准备<br>  cd blog<br>  hexo init</p><p>3.依赖安装<br>  cd hexo<br>  npm install</p><p><strong>将以前的文件迁移到新初始化的博客文件夹中</strong></p><p>1.需要迁移的文件包括：<br>  theme, scaffolds, source, 站点_config.yml, package.json</p><p>2.不需要迁移的文件：<br>  git,node_modules,public</p><p>3.迁移后，进行依赖包安装<br>  npm install</p><p>4.部署包安装<br>  npm install hexo-deployer-git –save</p><p>5.完成之后<br>  hexo g<br>  hexo s   # 查看本地运行<br>  hexo d   # 进行部署</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>更换新电脑后，hexo博客需要整体迁移<br>迁移工作分为两部分：</p><h2 id="博客迁移"><a href="#博客迁移" class="headerlink" title="博客迁移"></a>博客迁移</h2><h3 id="新电脑环境准备"><a href="#新电脑环境准备" class="headerlink" title="新电脑环境准备"></a>新电脑环境准备</h3><p>1.全局安装hexo脚手架<br>  npm install hexo-cli -g</p><p>2.博客文件准备<br>  cd blog<br>  hexo init</p><p>3.依赖安装<br>  cd hexo<br>  npm install</p><h3 id="将以前的文件迁移到新初始化的博客文件夹中"><a href="#将以前的文件迁移到新初始化的博客文件夹中" class="headerlink" title="将以前的文件迁移到新初始化的博客文件夹中"></a>将以前的文件迁移到新初始化的博客文件夹中</h3><p>1.需要迁移的文件包括：<br>  theme, scaffolds, source, 站点_config.yml, package.json</p><p>2.不需要迁移的文件：<br>  git,node_modules,public</p><p>3.迁移后，进行依赖包安装<br>  npm install</p><p>4.部署包安装<br>  npm install hexo-deployer-git –save</p><p>5.完成之后<br>  hexo g<br>  hexo s   # 查看本地运行<br>  hexo d   # 进行部署</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
         &lt;blockquote&gt;&lt;p&gt;更换新电脑后，hexo博客需要整体迁移&lt;br&gt;迁移工作分为两部分：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新电脑环境准备&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1.全局安装hexo脚手架&lt;br&gt;  npm install hexo-cli -g&lt;/p&gt;
-&lt;p&gt;2.
+&lt;h2 id=&quot;博客迁移&quot;&gt;&lt;a href=&quot;#博客迁移&quot; class=&quot;headerlink&quot; title=&quot;博客迁移&quot;&gt;&lt;/a&gt;博客迁移&lt;/h2&gt;&lt;h3 id=&quot;新电脑环
       
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My Gallery</title>
-    <link href="http://yoursite.com/2020/04/06/My-Gallery/"/>
-    <id>http://yoursite.com/2020/04/06/My-Gallery/</id>
-    <published>2020-04-06T05:05:08.000Z</published>
-    <updated>2020-04-06T05:05:08.501Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
