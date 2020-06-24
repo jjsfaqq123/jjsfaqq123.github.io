@@ -69,9 +69,9 @@
     <link href="http://yoursite.com/2020/06/04/plugin/"/>
     <id>http://yoursite.com/2020/06/04/plugin/</id>
     <published>2020-06-04T07:27:22.000Z</published>
-    <updated>2020-06-17T03:29:27.716Z</updated>
+    <updated>2020-06-24T14:47:03.821Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p><strong>前端常用插件</strong><br>侧滑触控：         vue-touch<br>copy复制：         vue-clipboard2<br>全局滚动回弹：     vue-scroller<br>上拉加载下拉刷新   vuescroll<br>数字滚动           vue-countTo<br>Mui<br>生成二维码插件     rqcode<br>vuex状态持久化   安装 npm install vuex-persistedstate –save    在store 引入import createPersistedState from “vuex-persistedstate”  在store里写入 plugins: [createPersistedState()]</p></blockquote>  ]]></content>
+    <content type="html"><![CDATA[<blockquote><p><strong>前端常用插件</strong><br>侧滑触控：         vue-touch<br>copy复制：         vue-clipboard2<br>全局滚动回弹：     vue-scroller<br>上拉加载下拉刷新   vuescroll<br>数字滚动           vue-countTo<br>Mui<br>生成二维码插件     rqcode<br>vuex状态持久化   安装 npm install vuex-persistedstate –save    在store 引入import createPersistedState from “vuex-persistedstate”  在store里写入 plugins: [createPersistedState()]<br>加密解密  采用AES +BESE64                crypto-js</p></blockquote>  ]]></content>
     
     <summary type="html">
     
